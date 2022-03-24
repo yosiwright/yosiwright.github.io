@@ -11472,7 +11472,7 @@ html {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(188, 36, 26, 0.9);
+  background-color: rgba(35, 35, 35, 0.9);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
@@ -11506,4 +11506,8 @@ html {
 
 .copyright {
   background-color: #1a252f;
+}
+
+.shadow-img {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
